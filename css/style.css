@@ -1,0 +1,80 @@
+.seven{
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 0, 0);
+    width: 340px;
+    height: 100%;
+    margin: 30px;
+    padding: 20px;
+    float: left;
+
+   
+ }
+
+ .sevens{
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 0, 0);
+    width: 333px;
+    height: 100%;
+    margin: 30px;
+    padding: 20px;
+    display: inline-block;
+
+   
+ }
+div.one{
+    border: 10px solid red;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 50px;
+}
+div.two{
+    border: 10px solid red;
+    border-radius: 50px;
+    margin: 30px 100px;
+    padding: 30px 100px;
+}
+div.three{
+    border: 10px solid red;
+    border-radius: 50px;
+    margin: 30px 50px 70px 90px;
+    padding: 30px 50px 70px 90px;
+}
+div.four{
+    border: 10px solid red;
+    border-radius: 50px;
+    margin-left: 50px;
+    padding: 50px;
+}
+
+ 
+.bng{
+    color: red;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.paragraph{
+      color: rgb(2, 255, 44);
+      height: 100px;
+
+}
+button{
+
+    color: red;
+    width: 100%;
+
+}
+span{
+     color: red;
+}
+.spn{
+   color: red;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+
